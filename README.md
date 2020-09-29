@@ -10,13 +10,14 @@
 
 ## 习题课讲稿及PPT
 
-*第一次习题课 [下载链接](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%A0%E9%A2%98%E8%AF%BE1PPT/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80PPT.pdf)
+* 第一次习题课 [下载链接](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%A0%E9%A2%98%E8%AF%BE1PPT/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80PPT.pdf)
 
-*第二次习题课 
+* 第二次习题课 
 
-*第三次习题课 
+* 第三次习题课 
 
 ## 补充习题
 
+* [补充习题1](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E8%A1%A5%E5%85%85%E4%B9%A0%E9%A2%98/%E8%A1%A5%E5%85%85%E4%B9%A0%E9%A2%98-1.pdf)
 
-
+* [补充习题2](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E8%A1%A5%E5%85%85%E4%B9%A0%E9%A2%98/%E8%A1%A5%E5%85%85%E4%B9%A0%E9%A2%98-2.pdf)
