@@ -21,3 +21,9 @@
 * [补充习题1](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E8%A1%A5%E5%85%85%E4%B9%A0%E9%A2%98/%E8%A1%A5%E5%85%85%E4%B9%A0%E9%A2%98-1.pdf)
 
 * [补充习题2](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E8%A1%A5%E5%85%85%E4%B9%A0%E9%A2%98/%E8%A1%A5%E5%85%85%E4%B9%A0%E9%A2%98-2.pdf)
+
+## 补充阅读材料
+
+* 托马斯微积分 [中文版]() [英文版]()
+
+* 普林斯顿微积分读本 [中文版]() [英文版]()
