@@ -27,3 +27,9 @@
 * 托马斯微积分 [中文版](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E8%A1%A5%E5%85%85%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/%E6%89%98%E9%A9%AC%E6%96%AF%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E7%AC%AC%E5%8D%81%E7%89%88%EF%BC%89.pdf) [英文版](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E8%A1%A5%E5%85%85%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Joel%20Hass%20_%20Maurice%20D.%20Weir%20_%20Christopher%20Heil%20_%20Jr.%20George%20Brinton%20Thomas%20-%20Thomas'%20calculus-Pearson%20E.L.%20(2018).pdf)
 
 * 普林斯顿微积分读本 [中文版](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E8%A1%A5%E5%85%85%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E5%BE%AE%E7%A7%AF%E5%88%86%E8%AF%BB%E6%9C%AC.pdf) [英文版](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E8%A1%A5%E5%85%85%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/(Princeton%20Lifesaver%20Study%20Guide)%20Adrian%20Banner%20-%20The%20Calculus%20Lifesaver_%20All%20the%20Tools%20You%20Need%20to%20Excel%20at%20Calculus%20(Princeton%20Lifesaver%20Study%20Guides)-Princeton%20University%20Press%20(2007).pdf)
+
+## 特别鸣谢
+
+特别鸣谢浙江大学、浙江大学数学科学学院以及微积分的主讲老师苏教授
+
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a> [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
