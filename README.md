@@ -6,7 +6,7 @@
 * [习题1-1](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%981-1.pdf)
 * [习题1-2](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%981-2.pdf)
 * [习题1-3](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%981-3.pdf)
-
+* [习题1-4](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%981-4.pdf)
 
 ## 习题课讲稿及PPT
 
