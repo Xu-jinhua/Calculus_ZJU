@@ -10,6 +10,7 @@
 * [习题1-综合](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%981-%E7%BB%BC%E5%90%88.pdf)
 * [习题2-全部](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%982.pdf)
 * [习题3-全部](https://raw.githubusercontent.com/Xu-jinhua/Calculus_ZJU/master/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%983.pdf)
+* [习题4&习题55](https://github.com/Xu-jinhua/Calculus_ZJU/raw/master/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%984%26%E4%B9%A0%E9%A2%985.pdf)
 
 ## 习题课讲稿及PPT
 
